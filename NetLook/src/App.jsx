@@ -1,5 +1,5 @@
 import React from 'react'
-import conf from '../conf/conf';
+import conf from './conf/conf';
 
 function App() {
 
