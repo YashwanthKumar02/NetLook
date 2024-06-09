@@ -6,5 +6,7 @@ import Logo from "./Logo";
 import Input from "./Input";
 import Button from "./Button";
 import PostCard from "./PostCard";
+import Select from "./Select";
+import RTE from "./RTE";
 
-export { Input, Button, PostCard, Header, Footer, Container, LogoutBtn, Logo };
+export { RTE, Select, Input, Button, PostCard, Header, Footer, Container, LogoutBtn, Logo };
